@@ -1,6 +1,5 @@
 # 💫 About Me:
-"The struggle you're in today is developing the strength you need for tomorrow.
-                                                                                         Student of Artificial Intelligence and Machine Learning currently perusing B.tech. Strong hands-on experience of practicals and theoretical concepts of AIML. 
+"The struggle you're in today is developing the strength you need for tomorrow. Student of Artificial Intelligence and Machine Learning currently perusing B.tech. Strong hands-on experience of practicals and theoretical concepts of AIML. 
 
 
 ## 🌐 Socials:
