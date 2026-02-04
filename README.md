@@ -1,5 +1,5 @@
 # 💫 About Me:
-"The struggle you're in today is developing the strength you need for tomorrow. Student of Artificial Intelligence and Machine Learning currently perusing B.tech. Strong hands-on experience of practicals and theoretical concepts of AIML. 
+I am a motivated and curious student with a strong interest in technology, programming, and artificial intelligence. I enjoy learning new tools and applying my knowledge through practical projects. I am constantly working on improving my technical skills and problem-solving abilities, with a long-term goal of building intelligent and impactful software solutions. I believe in continuous learning, discipline, and growing through real-world experience.
 
 
 ## 🌐 Socials:
