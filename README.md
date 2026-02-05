@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a motivated and curious student with a strong interest in technology, programming, and artificial intelligence. I enjoy learning new tools and applying my knowledge through practical projects. I am constantly working on improving my technical skills and problem-solving abilities, with a long-term goal of building intelligent and impactful software solutions. I believe in continuous learning, discipline, and growing through real-world experience.
+I am a dedicated student who believes in learning by doing. I enjoy working on technical projects, experimenting with new ideas, and continuously upgrading my skills. I am passionate about technology, especially artificial intelligence, and I aim to grow into a skilled professional by combining knowledge, creativity, and consistency. I enjoy learning new tools and applying my knowledge through practical projects. I am constantly working on improving my technical skills and problem-solving abilities, with a long-term goal of building intelligent and impactful software solutions. I believe in continuous learning, discipline, and growing through real-world experience.
 
 
 ## 🌐 Socials:
