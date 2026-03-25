@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi 👋, I'm Danish Khatri</h1>
+<h1 align="center">Hi , I'm Danish Khatri</h1>
 
 <p align="center">
   🚀 Student | 🤖 AI Enthusiast | 💻 Future Developer
@@ -133,12 +133,6 @@ To build **intelligent, scalable, and impactful AI-powered solutions**
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danish008-dan&theme=onedark&no-frame=true&margin-w=10" />
-</p>
-
 ---
 
 ## 🔥 Activity Graph
@@ -157,13 +151,6 @@ To build **intelligent, scalable, and impactful AI-powered solutions**
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=danish008-dan&icon=5&color=6" />
-</p>
-
----
 
 ## ⚡ Final Line
 
