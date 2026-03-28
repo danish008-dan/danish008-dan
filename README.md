@@ -1,4 +1,4 @@
-<!-- ================= GOD LEVEL HEADER ================= -->
+<!-- ================= HEADER ================= -->
 
 <h1 align="center">⚡ Danish Khatri ⚡</h1>
 
@@ -11,23 +11,21 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=230&section=header&text=Welcome%20to%20My%20AI%20World&fontSize=35&fontColor=00F7FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Welcome%20to%20My%20AI%20World&fontSize=30&fontColor=00F7FF" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🚀 I am a **builder mindset student** focused on creating real-world systems
-🤖 Deep interest in **Artificial Intelligence & intelligent automation**
-💡 I believe in **execution > theory**
+- 🚀 Builder-focused student creating real-world systems  
+- 🤖 Passionate about Artificial Intelligence & Automation  
+- 💡 Strong belief: **Execution > Theory**
 
 ### 🎯 Vision
-
-To engineer **high-impact AI systems** that solve real problems
+To engineer **high-impact AI systems** that solve real-world problems
 
 ### ⚡ Philosophy
-
 > Build • Break • Optimize • Repeat
 
 ---
@@ -36,12 +34,24 @@ To engineer **high-impact AI systems** that solve real problems
 
 <p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://linkedin.com/in/danish-khatri-408072390)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://instagram.com/dan.ish_raw)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube\&logoColor=white)](https://youtube.com/@Dan.ish_raw)
-[![X](https://img.shields.io/badge/X-000000?logo=x\&logoColor=white)](https://x.com/@crazyboydanish)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium\&logoColor=white)](https://medium.com/@Danish%20Khatri)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:danishkhatri885@gmail.com)
+<a href="https://linkedin.com/in/danish-khatri-408072390">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/dan.ish_raw">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+</a>
+<a href="https://youtube.com/@Dan.ish_raw">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/>
+</a>
+<a href="https://x.com/crazyboydanish">
+  <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"/>
+</a>
+<a href="https://medium.com/@DanishKhatri">
+  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/>
+</a>
+<a href="mailto:danishkhatri885@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
@@ -50,14 +60,12 @@ To engineer **high-impact AI systems** that solve real problems
 ## ⚙️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tensorflow,opencv,sklearn,mysql,fastapi,git,github&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tensorflow,opencv,sklearn,mysql,fastapi,git,github&theme=dark" />
 </p>
 
 ---
 
-## 🚀 Live Project Showcase (Real Work)
+## 🚀 Projects
 
 <p align="center">
 
@@ -81,10 +89,11 @@ To engineer **high-impact AI systems** that solve real problems
 
 ---
 
-## 📊 GitHub Intelligence
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danish008-dan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish008-dan&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -94,10 +103,10 @@ To engineer **high-impact AI systems** that solve real problems
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danish008-dan&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danish008-dan&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -105,26 +114,24 @@ To engineer **high-impact AI systems** that solve real problems
 ## 🤖 AI Identity
 
 <p align="center">
-  <img src="https://api.dicebear.com/7.x/bottts/svg?seed=AI-Danish&backgroundColor=0f172a&radius=50" width="160"/>
+  <img src="https://api.dicebear.com/7.x/bottts/svg?seed=AI-Danish&backgroundColor=0f172a&radius=50" width="140"/>
 </p>
 
 <p align="center">
-  ⚡ *Transforming into an AI System Architect* ⚡
+  ⚡ Transforming into an AI System Architect ⚡
 </p>
 
 ---
 
-## 🧬 Dev Philosophy
+## 🧬 Development Mindset
 
 <p align="center">
-
-🧠 Think Deep • ⚡ Execute Fast • 🔁 Iterate Daily
-
+  🧠 Think Deep • ⚡ Execute Fast • 🔁 Iterate Daily
 </p>
 
 ---
 
-## ✍️ Dev Quote
+## ✍️ Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -132,17 +139,15 @@ To engineer **high-impact AI systems** that solve real problems
 
 ---
 
-## ⚡ Final Signal
+## ⚡ Final Note
 
 <p align="center">
-
-🚀 *"I don’t just learn tech — I build with it."*
-
+  🚀 <b>"I don’t just learn tech — I build with it."</b>
 </p>
 
 ---
 
-<!-- ================= FUTURISTIC FOOTER ================= -->
+<!-- ================= FOOTER ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=120&section=footer"/>
