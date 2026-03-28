@@ -75,18 +75,18 @@ Learning Style: Execution Driven
 
 ---
 
-## 📊 SYSTEM METRICS
+## 📊 DEVELOPMENT STATUS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danish008-dan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="stats" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Systems-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stage-Learning%20%26%20Building-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-System%20Architect-purple?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=danish008-dan&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish008-dan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="langs" />
+  <img src="https://img.shields.io/badge/Consistency-Daily%20Execution-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mindset-Builder-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Real%20Projects-important?style=flat-square" />
 </p>
 
 ---
@@ -165,7 +165,7 @@ Learning Style: Execution Driven
 
 ---
 
-<!-- ================= FUTURISTIC FOOTER ================= -->
+<!-- ================= FOOTER ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=120&section=footer"/>
