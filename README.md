@@ -42,7 +42,38 @@ Learning Style: Execution Driven
 > Engineer AI systems that solve real-world problems at scale
 
 ---
+## 🌐 CONNECT NETWORK
 
+<p align="center">
+
+<a href="https://linkedin.com/in/danish-khatri-408072390">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/dan.ish_raw">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@Dan.ish_raw">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://x.com/crazyboydanish">
+  <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@DanishKhatri">
+  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/>
+</a>
+
+<a href="mailto:danishkhatri885@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+---
 ## ⚙️ TECH ARSENAL
 
 <p align="center">
@@ -99,37 +130,6 @@ Learning Style: Execution Driven
 
 ---
 
-## 🌐 CONNECT NETWORK
-
-<p align="center">
-
-<a href="https://linkedin.com/in/danish-khatri-408072390">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/dan.ish_raw">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@Dan.ish_raw">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://x.com/crazyboydanish">
-  <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"/>
-</a>
-
-<a href="https://medium.com/@DanishKhatri">
-  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/>
-</a>
-
-<a href="mailto:danishkhatri885@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
 
 <!-- ================= FUTURISTIC STATS CORE ================= -->
 
