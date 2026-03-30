@@ -140,8 +140,7 @@ Learning Style: Execution Driven
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=danish008-dan&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danish008-dan&theme=tokyonight&hide_border=true" /></p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danish008-dan&theme=tokyonight" />
