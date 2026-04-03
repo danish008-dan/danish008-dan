@@ -92,25 +92,6 @@ location: India
 
 ---
 
-## PROJECT MATRIX
-
-<p align="center">
-  <a href="https://github.com/danish008-dan/AI_Agent_Phase_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danish008-dan&repo=AI_Agent_Phase_1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/danish008-dan/The_Pearl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danish008-dan&repo=The_Pearl&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/danish008-dan/Disease_Prediction_Tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danish008-dan&repo=Disease_Prediction_Tool&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/danish008-dan/Auto_research_bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danish008-dan&repo=Auto_research_bot&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## LIVE METRICS
 
 <p align="center">
