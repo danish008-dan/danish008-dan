@@ -1,69 +1,69 @@
 <!-- ============================= -->
-<!--  DANISH KHATRI | FUTURE LAB  -->
+<!--  DANISH KHATRI | SYSTEM GRID -->
 <!-- ============================= -->
 
-<h1 align="center">⚡ DANISH KHATRI ⚡</h1>
+<h1 align="center">DANISH KHATRI</h1>
 
 <p align="center">
-  <b>AI Engineer • System Builder • Future Tech Architect</b>
+  <b>AI Engineer • Product Systems Builder • Future-Focused Developer</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=Designing+AI+Systems;Building+Real-World+Products;Engineering+Scalable+Solutions;Execution+Over+Theory;Consistency+Creates+Momentum" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=9ADCFB&center=true&vCenter=true&size=22&lines=Designing+Intelligent+Systems;Building+Scalable+Digital+Products;Turning+Ideas+Into+Working+Solutions;Quiet+Focus+%E2%80%A2+Sharp+Execution" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Welcome%20to%20My%20Digital%20Lab&fontSize=32&fontColor=00F7FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:111827&height=220&section=header&text=SYSTEM%20GRID&fontSize=34&fontColor=9ADCFB" />
 </p>
 
 ---
 
-## SYSTEM SNAPSHOT
+## PROFILE SIGNAL
 
 ```yaml
 name: Danish Khatri
 role: AI Engineer
 focus:
-  - AI systems
-  - automation
-  - real-world product building
-mission: Build intelligent systems that create measurable impact
-status: Evolving in public, shipping consistently
-location: India
+  - intelligent products
+  - automation systems
+  - scalable workflows
+style: clean execution
+vision: build useful systems that last
+status: evolving with precision
 ```
 
 ---
 
-## CORE IDENTITY
+## WHAT I BUILD
 
-- AI systems over isolated demos.
-- Automation over manual repetition.
-- Practical execution over empty hype.
-- Continuous learning through building.
-
----
-
-## CURRENT OPERATING MODE
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Mode-Building%20In%20Public-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Systems-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stage-Scaling%20Skills-8A2BE2?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Consistency-Daily%20Execution-00C853?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mindset-Builder-F57C00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Goal-System%20Architect-7C4DFF?style=flat-square" />
-</p>
+- Intelligent tools that solve real problems.
+- Automated workflows that reduce friction.
+- Interfaces that feel fast, clear, and polished.
+- Systems that can scale without losing simplicity.
 
 ---
 
-## CONNECT NETWORK
+## STATUS BOARD
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mode-Deep%20Work-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Automation-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Direction-Product%20Engineering-14B8A6?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Execution-Consistent-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Approach-Structured-64748B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mindset-Builder-8B5CF6?style=flat-square" />
+</p>
+
+---
+
+## CONNECT
 
 <p align="center">
   <a href="https://linkedin.com/in/danish-khatri-408072390">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/dan.ish_raw">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
@@ -72,30 +72,43 @@ location: India
     <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
   </a>
   <a href="https://x.com/crazyboydanish">
-    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@DanishKhatri">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-0F172A?logo=x&logoColor=white" />
   </a>
   <a href="mailto:danishkhatri885@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-1D4ED8?logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## TECH ARSENAL
+## STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tensorflow,opencv,sklearn,mysql,fastapi,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,fastapi,tensorflow,opencv,sklearn,mysql,git,github&theme=dark" />
 </p>
 
 ---
 
-## LIVE METRICS
+## ACTIVE BUILDS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danish008-dan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats" />
+  <a href="https://github.com/danish008-dan/AI_Agent_Phase_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danish008-dan&repo=AI_Agent_Phase_1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/danish008-dan/The_Pearl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danish008-dan&repo=The_Pearl&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/danish008-dan/Disease_Prediction_Tool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danish008-dan&repo=Disease_Prediction_Tool&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## METRICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danish008-dan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200" />
 </p>
 
 <p align="center">
@@ -106,72 +119,32 @@ location: India
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danish008-dan&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danish008-dan&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danish008-dan&theme=tokyonight" />
-</p>
-
 ---
 
-## ACTIVITY SIGNAL
+## WORKFLOW
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danish008-dan&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## FOCUS BOARD
-
-| Area | Status | Direction |
+| Phase | Focus | Outcome |
 |---|---|---|
-| AI Engineering | Active | Building practical systems |
-| Automation | Active | Reducing repetitive work |
-| Product Thinking | Active | Shipping usable solutions |
-| Public Learning | Active | Sharing growth and process |
+| Explore | Learn fast | Clear direction |
+| Build | Ship quickly | Functional systems |
+| Refine | Improve quality | Better UX |
+| Scale | Automate repeat work | Sustainable growth |
 
 ---
 
-## EXECUTION LOOP
+## PHILOSOPHY
 
-<p align="center">
-  Think → Build → Test → Improve → Scale
-</p>
+> “Precision, discipline, and systems thinking create lasting progress.”
 
 ---
 
-## SYSTEM PHILOSOPHY
-
-> “I don’t follow trends. I build systems that outlast them.”
-
----
-
-## TIME-AWARE STATUS
-
-<!-- LAST_UPDATED -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-Automated%20Refresh-00F7FF?style=for-the-badge" />
-</p>
-
-<!-- LATEST_ACTIVITY -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Live%20and%20Evolving-1E90FF?style=for-the-badge" />
-</p>
-
----
-
-## AI AVATAR
+## TIME-AWARE UPDATE
 
 <p align="center">
-  <img src="https://api.dicebear.com/7.x/bottts/svg?seed=AI-Danish&backgroundColor=0f172a&radius=50" width="130" />
+  <img src="https://img.shields.io/badge/README-Live%20Refresh-9ADCFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Updated-Automatically-14B8A6?style=for-the-badge" />
 </p>
 
 <p align="center">
-  ⚡ Evolving into an AI System Architect ⚡
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0B1020&height=120&section=footer" />
 </p>
