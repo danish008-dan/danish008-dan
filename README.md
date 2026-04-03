@@ -1,19 +1,19 @@
 <!-- ============================= -->
-<!--  DANISH KHATRI | SYSTEM GRID -->
+<!--  DANISH KHATRI | SIGNAL CORE -->
 <!-- ============================= -->
 
 <h1 align="center">DANISH KHATRI</h1>
 
 <p align="center">
-  <b>AI Engineer • Product Systems Builder • Future-Focused Developer</b>
+  <b>AI Engineer • Product Builder • Systems Thinker</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9ADCFB&center=true&vCenter=true&size=22&lines=Designing+Intelligent+Systems;Building+Scalable+Digital+Products;Turning+Ideas+Into+Working+Solutions;Quiet+Focus+%E2%80%A2+Sharp+Execution" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=A8FF60&center=true&vCenter=true&size=22&lines=Engineering+Practical+AI+Systems;Building+Digital+Products+That+Scale;Focused+on+Clarity+and+Execution;Designing+for+Real+Impact" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:111827&height=220&section=header&text=SYSTEM%20GRID&fontSize=34&fontColor=9ADCFB" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:2A2A2A&height=220&section=header&text=SIGNAL%20CORE&fontSize=34&fontColor=F4F4F4" />
 </p>
 
 ---
@@ -24,64 +24,64 @@
 name: Danish Khatri
 role: AI Engineer
 focus:
-  - intelligent products
-  - automation systems
-  - scalable workflows
-style: clean execution
-vision: build useful systems that last
-status: evolving with precision
+  - intelligent systems
+  - product engineering
+  - automation
+approach: build, test, refine, ship
+vision: create reliable technology with real utility
+status: consistent progress
 ```
 
 ---
 
-## WHAT I BUILD
+## OPERATING PRINCIPLES
 
-- Intelligent tools that solve real problems.
-- Automated workflows that reduce friction.
-- Interfaces that feel fast, clear, and polished.
-- Systems that can scale without losing simplicity.
-
----
-
-## STATUS BOARD
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Mode-Deep%20Work-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Automation-334155?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Direction-Product%20Engineering-14B8A6?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Execution-Consistent-22C55E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Approach-Structured-64748B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mindset-Builder-8B5CF6?style=flat-square" />
-</p>
+- Build systems, not noise.
+- Prioritize function before decoration.
+- Keep the architecture clean and scalable.
+- Ship useful work consistently.
 
 ---
 
-## CONNECT
+## STATUS INDICATORS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mode-Deep%20Build-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-3A3A3A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mission-Ship%20Useful%20Systems-7A7A7A?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Workflow-Consistent%20Execution-00C853?style=flat-square" />
+  <img src="https://img.shields.io/badge/Standard-Professional-E91E63?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tempo-Steady-A8FF60?style=flat-square" />
+</p>
+
+---
+
+## CONTACT GRID
 
 <p align="center">
   <a href="https://linkedin.com/in/danish-khatri-408072390">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/dan.ish_raw">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white" />
   </a>
   <a href="https://youtube.com/@Dan.ish_raw">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0033?logo=youtube&logoColor=white" />
   </a>
   <a href="https://x.com/crazyboydanish">
-    <img src="https://img.shields.io/badge/X-0F172A?logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-0B0B0B?logo=x&logoColor=white" />
   </a>
   <a href="mailto:danishkhatri885@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1D4ED8?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-6B7280?logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## STACK
+## TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,fastapi,tensorflow,opencv,sklearn,mysql,git,github&theme=dark" />
@@ -89,62 +89,65 @@ status: evolving with precision
 
 ---
 
-## ACTIVE BUILDS
+## ACTIVE REPOSITORIES
 
 <p align="center">
   <a href="https://github.com/danish008-dan/AI_Agent_Phase_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danish008-dan&repo=AI_Agent_Phase_1&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danish008-dan&repo=AI_Agent_Phase_1&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/danish008-dan/The_Pearl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danish008-dan&repo=The_Pearl&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danish008-dan&repo=The_Pearl&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/danish008-dan/Disease_Prediction_Tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danish008-dan&repo=Disease_Prediction_Tool&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danish008-dan&repo=Disease_Prediction_Tool&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/danish008-dan/Auto_research_bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danish008-dan&repo=Auto_research_bot&theme=dark&hide_border=true" />
   </a>
 </p>
 
 ---
 
-## METRICS
+## METRICS PANEL
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danish008-dan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danish008-dan&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish008-dan&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish008-dan&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danish008-dan&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danish008-dan&theme=github_dark" />
 </p>
 
 ---
 
-## WORKFLOW
+## WORKFLOW GRID
 
-| Phase | Focus | Outcome |
+| Phase | Intent | Result |
 |---|---|---|
-| Explore | Learn fast | Clear direction |
-| Build | Ship quickly | Functional systems |
-| Refine | Improve quality | Better UX |
-| Scale | Automate repeat work | Sustainable growth |
+| Research | Understand the problem | Strong direction |
+| Build | Create the solution | Working system |
+| Review | Improve stability | Better output |
+| Deploy | Share the result | Real-world value |
 
 ---
 
-## PHILOSOPHY
+## SYSTEM NOTE
 
-> “Precision, discipline, and systems thinking create lasting progress.”
+> “Professional quality comes from repeatable execution, not random bursts.”
 
 ---
 
-## TIME-AWARE UPDATE
+## AUTO UPDATE STATUS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/README-Live%20Refresh-9ADCFB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Updated-Automatically-14B8A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/README-Auto%20Refreshed-F4F4F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Updated-Scheduled%20Workflow-A8FF60?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0B1020&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A2A2A,100:111111&height=120&section=footer" />
 </p>
