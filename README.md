@@ -110,10 +110,6 @@ Learning Style: Execution Driven
 ## METRICS PANEL
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danish008-dan&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish008-dan&theme=dark&hide_border=true" />
 </p>
 
