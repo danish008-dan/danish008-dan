@@ -35,11 +35,6 @@ Learning Style: Execution Driven
 
 ---
 
-## 🎯 VISION
-
-> Engineer AI systems that solve real-world problems at scale
-
----
 ## 🌐 CONNECT NETWORK
 
 <p align="center">
@@ -96,14 +91,6 @@ Learning Style: Execution Driven
 
 ---
 
-## 📈 ACTIVITY SIGNAL
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danish008-dan&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 
 <!-- ================= FUTURISTIC STATS CORE ================= -->
 
@@ -117,15 +104,6 @@ Learning Style: Execution Driven
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danish008-dan&theme=github_dark" />
 </p>
 
-
-
-
-
-## 🧬 EXECUTION LOOP
-
-<p align="center">
-🧠 Think → ⚡ Build → 🔥 Break → 🔁 Optimize → 🚀 Scale
-</p>
 
 
 
