@@ -117,32 +117,9 @@ Learning Style: Execution Driven
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danish008-dan&theme=github_dark" />
 </p>
 
----
 
-## WORKFLOW GRID
 
-| Phase | Intent | Result |
-|---|---|---|
-| Research | Understand the problem | Strong direction |
-| Build | Create the solution | Working system |
-| Review | Improve stability | Better output |
-| Deploy | Share the result | Real-world value |
 
----
-
----
-
-## 🤖 AI AVATAR
-
-<p align="center">
-<img src="https://api.dicebear.com/7.x/bottts/svg?seed=AI-Danish&backgroundColor=0f172a&radius=50" width="130"/>
-</p>
-
-<p align="center">
-⚡ Evolving into an AI System Architect ⚡
-</p>
-
----
 
 ## 🧬 EXECUTION LOOP
 
@@ -150,13 +127,7 @@ Learning Style: Execution Driven
 🧠 Think → ⚡ Build → 🔥 Break → 🔁 Optimize → 🚀 Scale
 </p>
 
----
 
-## 🧠 SYSTEM PHILOSOPHY
-
-> "I don’t follow trends — I build systems that define them."
-
----
 
 ## ⚡ FINAL SIGNAL
 
